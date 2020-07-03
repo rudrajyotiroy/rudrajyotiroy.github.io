@@ -12,7 +12,7 @@ author: Rudrajyoti Roy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  My Resume: "Rudrajyoti_Roy_CV"
+  My Resume: "Rudrajyoti_Roy_CV.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
