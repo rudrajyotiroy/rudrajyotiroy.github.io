@@ -38,13 +38,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
+  linkedin: rudrajyoti-roy-9a9417187
   email: rudrajyotiroy@gmail.com
   facebook: Rudrajyoti.Roy.Prince
   github: rudrajyotiroy
 # twitter: daattali
   rss: false
 #  reddit: yourname
-   linkedin: rudrajyoti-roy-9a9417187
+  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
