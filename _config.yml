@@ -39,19 +39,19 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "rudrajyotiroy@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: Rudrajyoti.Roy.Prince
+  github: rudrajyotiroy
+# twitter: daattali
   rss: false
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: rudrajyoti-roy-9a9417187
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+   youtube: https://www.youtube.com/channel/UCw2MSyaBk_G0IptNrDlbfNA?view_as=subscriber
 #  spotify: yourname
-#  telephone: +14159998888
+   telephone: 6290602631
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
