@@ -22,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/profpic.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,9 +49,9 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-   youtube: https://www.youtube.com/channel/UCw2MSyaBk_G0IptNrDlbfNA?view_as=subscriber
+#  youtube: https://www.youtube.com/channel/UCw2MSyaBk_G0IptNrDlbfNA?view_as=subscriber
 #  spotify: yourname
-   telephone: 6290602631
+#  telephone: 6290602631
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -130,11 +130,11 @@ footer-link-col: "#404040"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: "https://github.com/rudrajyotiroy/rudrajyotiroy.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  issue-term: title   # Mapping between blog posts and GitHub issues
+  theme: github-light # Utterances theme
+  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
 # accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
