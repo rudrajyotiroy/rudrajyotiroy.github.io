@@ -14,11 +14,19 @@ var BeautifulJekyllJS = {
             $(".navbar").removeClass("top-nav-short");
         }
     });
-    
-    // show the big header image	
+
+    // On mobile, hide the avatar when expanding the navbar menu
+    $('#main-navbar').on('show.bs.collapse', function () {
+      $(".navbar").addClass("top-nav-expanded");
+    });
+    $('#main-navbar').on('hidden.bs.collapse', function () {
+      $(".navbar").removeClass("top-nav-expanded");
+    });
+
+    // show the big header image
     BeautifulJekyllJS.initImgs();
   },
-  
+
   initImgs : function() {
     // If the page was large images to randomly select from, choose an image
     if ($("#header-big-imgs").length > 0) {
@@ -64,7 +72,7 @@ var BeautifulJekyllJS = {
       }
     }
   },
-  
+
   getImgInfo : function() {
     var randNum = Math.floor((Math.random() * BeautifulJekyllJS.numImgs) + 1);
     var src = BeautifulJekyllJS.bigImgEl.attr("data-img-src-" + randNum);
@@ -75,9 +83,9 @@ var BeautifulJekyllJS = {
       desc : desc
     }
   },
-  
+
   setImg : function(src, desc) {
-	    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
     if (typeof desc !== typeof undefined && desc !== false) {
       $(".img-desc").text(desc).show();
     } else {
