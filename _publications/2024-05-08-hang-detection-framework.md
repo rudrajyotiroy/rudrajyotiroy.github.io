@@ -1,6 +1,7 @@
 ---
 title: "ML Based Scalable Plug-and-Play Framework for Early Hang Detection"
 collection: publications
+category: conferences
 permalink: /publication/hang-detection-framework
 date: 2024-05-08
 venue: "Qualcomm Global SoC Conference, IP-Cores track (Best Paper Award)"

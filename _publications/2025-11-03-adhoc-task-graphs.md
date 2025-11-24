@@ -1,6 +1,7 @@
 ---
 title: "Scheduling & Routing Strategies for Executing Task Graphs on AdHoc Networks"
 collection: publications
+category: manuscripts
 permalink: /publication/adhoc-task-graphs
 date: 2025-11-03
 venue: "Ad Hoc Networks (Elsevier)"

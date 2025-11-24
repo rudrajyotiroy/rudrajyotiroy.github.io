@@ -1,6 +1,7 @@
 ---
 title: "Harnessing Machine Learning in DTM in CPU-GPU Embedded Platforms"
 collection: publications
+category: manuscripts
 permalink: /publication/ml-dtm-cpu-gpu
 date: 2025-01-10
 venue: "ACM Transactions on Design Automation of Electronic Systems (TODAES)"

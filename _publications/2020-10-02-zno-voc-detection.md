@@ -1,6 +1,7 @@
 ---
 title: "Selective detection of multiple VOCs employing ZnO nanorods and PCA"
 collection: publications
+category: conferences
 permalink: /publication/zno-voc-detection
 date: 2020-10-02
 venue: "International Conference on Electronics & Materials Engineering (IEMENTech)"

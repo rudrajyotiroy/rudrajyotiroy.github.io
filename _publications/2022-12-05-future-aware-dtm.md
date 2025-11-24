@@ -1,6 +1,7 @@
 ---
 title: "Future aware Dynamic Thermal Management in CPU-GPU Embedded Platforms"
 collection: publications
+category: conferences
 permalink: /publication/future-aware-dtm
 date: 2022-12-05
 venue: "IEEE Real-Time Systems Symposium (RTSS)"
