@@ -30,7 +30,9 @@ author:
   location         : "#4844, Beyster Bldg."
   employer         : "University of Michigan"
   uri              : # URL
-  email            : "rudraroy@umich.edu" 
+  email_personal   : "rudrajyotiroy@gmail.com"
+  email_work       : "rudraroy@umich.edu"
+  phone_us         : "+1 734-596-4864"
 
   # Academic websites
   academia         : # URL
