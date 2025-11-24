@@ -11,6 +11,7 @@ redirect_from:
 
 
 Hi there, I am Rudra (*ruh.dro*). I'm a **graduate student** at EECS (CSE) department, University of Michigan, Ann Arbor. I am a part of [CELAB](https://ce.engin.umich.edu/people/), currently advised by Prof. [Satish Narayansamy](https://gamma.app/docs/Satish-Narayanasamy-1bc74e8e413szqa), working towards **Trusted Hardware Architectures for verifiable computing**. More specifically, we are re-architecting High-Performance Computing (HPC) systems (e.g. GPU racks used in AI Datacenters) of the future to establish hardware-enforced verifiable computing and performance regulation. The goal is to non-invasively ascertain whether End-User License Agreement (EULA) is being adhered, and provide **remote on-chip governance** for on-premise HaaS (Hardware-as-a-Service).[*READ MORE*](https://rudrajyotiroy.github.io/blog-posts/current-research)
+
 As a hardware-software system architect I'm broadly interested in the vast intersection of performance, efficiency, security and verifiability.
 
 Prior to this, I was working as a **Hardware Verification** (later **System Modelling**) engineer in Low-Power Al (LPAI) subsystem team at **Qualcomm** Inc., Bengaluru, India for 2+ years. 
