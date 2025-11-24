@@ -5,6 +5,11 @@ category: manuscripts
 permalink: /publication/adhoc-task-graphs
 date: 2025-11-03
 venue: "Ad Hoc Networks (Elsevier)"
-excerpt: "Scheduling and routing strategies for executing task graphs on ad hoc networks; analyzes makespan and robustness."
-citation: "Chhavi Chaudhury; Rudrajyoti Roy; Rajesh Devaraj; Arnab Sarkar. (2025). \"Scheduling & Routing Strategies for Executing Task Graphs on AdHoc Networks.\" Ad Hoc Networks (Elsevier). DOI: 10.1016/j.adhoc.2025.104084."
+authors:
+  - Chhavi Chaudhury
+  - Rudrajyoti Roy
+  - Rajesh Devaraj
+  - Arnab Sarkar
+doi: 10.1016/j.adhoc.2025.104084
+excerpt: "Formulates joint scheduling and routing for executing task graphs over ad hoc wireless networks, capturing both makespan and robustness to link variability. Proposes path-aware scheduling heuristics with analytical bounds and shows via simulation that they shorten completion time and sustain throughput under mobility compared to topology-agnostic baselines."
 ---

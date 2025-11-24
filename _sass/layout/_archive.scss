@@ -84,6 +84,41 @@
   }
 }
 
+.pub__meta {
+  margin: 0.35em 0 0.85em;
+  line-height: 1.4;
+
+  .pub__authors {
+    margin: 0;
+    font-weight: 600;
+    color: var(--global-text-color);
+  }
+
+  .pub__venue {
+    margin: 0;
+    color: var(--global-text-color-light);
+  }
+
+  .pub__doi,
+  .pub__note {
+    margin: 0.15em 0 0;
+    color: var(--global-text-color);
+    font-size: $type-size-6;
+  }
+
+  .pub__doi a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.pub__resources {
+  margin: 0.5em 0 0;
+  font-size: $type-size-6;
+}
 
 /*
    List view
@@ -106,7 +141,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -150,7 +184,6 @@
     }
   }
 }
-
 
 /*
    Features
