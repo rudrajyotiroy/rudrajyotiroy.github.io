@@ -9,5 +9,5 @@ authors:
   - Rudrajyoti Roy
   - Anshul Sengar
   - Ronak Shah
-excerpt: "Presents a plug-and-play ML framework that monitors waveform and log telemetry to flag early-stage hangs in long-running hardware simulations. The pipeline unifies data collection, feature extraction, and model scoring so verification teams can triage failing seeds sooner and scale detection across diverse IP blocks without retooling."
+excerpt: "Presents a plug-and-play ML framework that intelligently binds scalable watchdogs to part of code prone to deadlocks, to flag early-stage hangs in long-running hardware simulations (regressions). The pipeline unifies automatic binding, ML-assisted threshold prediction and iterative self-learning so verification teams can triage failing seeds sooner and scale detection across diverse IP blocks (even within co-processors executing C microcode) without retooling. Demonstrates significant reduction in debugging effort."
 ---
