@@ -11,12 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /blog-posts/
+
   - title: "CV"
     url: /files/Rudrajyoti_Roy_Resume_110325-3.pdf
     
