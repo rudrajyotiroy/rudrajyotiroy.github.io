@@ -29,7 +29,7 @@ author:
   bio              : "👨🏽‍💼 Grad Student at UMich CSE <br/> B.Tech(ECE) @ IIT Kharagpur<br/> Ex HW Engineer @ Qualcomm <br/> 💻 Hardware System Architect "
   employer         : "#4844, Beyster Bldg."
   location         : "Ann Arbor, MI, 48105"
-  uri              : "rudrajyotiroy.github.io"
+  uri              : # URL
   email_personal   : "rudrajyotiroy@gmail.com"
   email_work       : "rudraroy@umich.edu"
   phone_us         : "+1 734-596-4864"
