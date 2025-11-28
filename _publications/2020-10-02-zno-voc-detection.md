@@ -12,5 +12,5 @@ authors:
   - Tufan Saha
   - Tarun Kanti Bhattacharyya
 doi: 10.1109/IEMENTech51367.2020.9270117
-excerpt: "Fabricated ZnO nanorod chemiresistors and paired them with a PCA pipeline to separate multiple VOC signatures, improving selectivity over single-sensor baselines while keeping fabrication and computation lightweight for portable gas-sensing."
+excerpt: "Implemented raw sensor data post-processing, phase-extraction and PCA-based clustering to detect and identify multiple Volatile Organic Compounds (VOCs) for a novel ZnO nanorod chemiresistor based gas-sensor. Improved selectivity over single-sensor baselines while keeping fabrication and computation lightweight for portable gas-sensing."
 ---

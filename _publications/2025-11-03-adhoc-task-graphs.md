@@ -11,5 +11,5 @@ authors:
   - Rajesh Devaraj
   - Arnab Sarkar
 doi: 10.1016/j.adhoc.2025.104084
-excerpt: "Formulates joint scheduling and routing for executing task graphs over ad hoc wireless networks, capturing both makespan and robustness to link variability. Proposes path-aware scheduling heuristics with analytical bounds and shows via simulation that they shorten completion time and sustain throughput under mobility compared to topology-agnostic baselines."
+excerpt: "Formulated joint task scheduling and message routing for executing task graphs over ad hoc wireless networks, capturing both makespan and robustness to link variability. Proposed path-aware scheduling heuristics with analytical bounds. Extensive Monte-Carlo simulations prove shortened completion time and sustained throughput under mobility compared to topology-agnostic baselines under various deployment usecases and traffic patterns."
 ---
